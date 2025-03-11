@@ -96,8 +96,15 @@ chmod +x myscript.sh
 
 ### REG NUMBER: 212223230116
 ### NAME: Mahalakshmi R
-![image](https://github.com/user-attachments/assets/ad716f83-e96f-431f-8fae-2d5bf2dd472f)
- 
+
+ ![419296131-c8cefd3c-b7b5-48fa-a2f6-85db776cf094](https://github.com/user-attachments/assets/7ba1ffe9-c6c4-4f5c-b812-bbf9509c43c0)
+
+![421258284-cc481926-bcfc-4901-b74d-7f5c76beabd5](https://github.com/user-attachments/assets/69728a6d-76da-420c-a1df-522a868a81e7)
+
+![421258755-ddc08a53-e155-4a5c-afa4-d4a9429696d3](https://github.com/user-attachments/assets/8552a4dd-2054-48a2-ab11-95d674b608ca)
+
+![417051518-bdb5a52e-f093-4767-9cb1-0c4ffc8fe11f](https://github.com/user-attachments/assets/04f0146e-08cd-435d-aedb-799ce0c169d1)
+
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
   
